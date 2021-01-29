@@ -1,0 +1,434 @@
+$(document).ready(function()
+{
+	$(map1_data).hide();
+	$(map2_data).hide();
+	$(map3_data).hide();
+	$(map4_data).hide();
+	$(map5_data).hide();
+	$(map6_data).hide();
+	$(map7_data).hide();
+	$(map8_data).hide();
+	$(map9_data).hide();
+	$(map10_data).hide();
+	$(map11_data).hide();
+	$(map12_data).hide();
+	$(map13_data).hide();
+	$(map14_data).hide();
+	$(map15_data).hide();
+	$(map16_data).hide();
+	$(map17_data).hide();
+	$(map18_data).hide();
+	$(map19_data).hide();
+	$(map20_data).hide();
+
+$(tab1_data).hide();
+$(tab2_data).hide();
+$(tab3_data).hide();
+$(tab4_data).hide();
+$(tab5_data).hide();
+$(tab6_data).hide();
+$(tab7_data).hide();
+$(tab8_data).hide();
+$(tab9_data).hide();
+$(tab10_data).hide();
+$(tab11_data).hide();
+$(tab11a_data).hide();
+$(tab11b_data).hide();
+$(tab11c_data).hide();
+$(tab11d_data).hide();
+$(tab11e_data).hide();
+$(tab11f_data).hide();
+$(tab11g_data).hide();
+$(tab11h_data).hide();
+$(tab11i_data).hide();
+$(tab11j_data).hide();
+$(tab11k_data).hide();
+$(tab11l_data).hide();
+$(tab11m_data).hide();
+$(tab11n_data).hide();
+$(tab11o_data).hide();
+$(tab11p_data).hide();
+$(tab11q_data).hide();
+$(tab12_data).hide();
+$(tab13_data).hide();
+$(tab14_data).hide();
+$(tab15_data).hide();
+$(tab16_data).hide();
+$(tab17_data).hide();
+$(tab18_data).hide();
+$(tab19_data).hide();
+$(tab20_data).hide();
+
+	$("#map1").click(function()
+	{
+		$(map1_data).toggle();
+	});
+	$("#map2").click(function()
+	{
+		$(map2_data).toggle();
+	});
+	$("#map3").click(function()
+	{
+		$(map3_data).toggle();
+	});
+	$("#map4").click(function()
+	{
+		$(map4_data).toggle();
+	});
+	$("#map5").click(function()
+	{
+		$(map5_data).toggle();
+	});
+	$("#map6").click(function()
+	{
+		$(map6_data).toggle();
+	});
+	$("#map7").click(function()
+	{
+		$(map7_data).toggle();
+	});
+	$("#map8").click(function()
+	{
+		$(map8_data).toggle();
+	});
+	$("#map9").click(function()
+	{
+		$(map9_data).toggle();
+	});
+	$("#map10").click(function()
+	{
+		$(map10_data).toggle();
+	});
+	$("#map11").click(function()
+	{
+		$(map11_data).toggle();
+	});
+	$("#map12").click(function()
+	{
+		$(map12_data).toggle();
+	});
+	$("#map13").click(function()
+	{
+		$(map13_data).toggle();
+	});
+	$("#map14").click(function()
+	{
+		$(map14_data).toggle();
+	});
+	$("#map15").click(function()
+	{
+		$(map15_data).toggle();
+	});
+	$("#map16").click(function()
+	{
+		$(map16_data).toggle();
+	});
+	$("#map17").click(function()
+	{
+		$(map17_data).toggle();
+	});
+	$("#map18").click(function()
+	{
+		$(map18_data).toggle();
+	});
+	$("#map19").click(function()
+	{
+		$(map1_data).toggle();
+	});
+	$("#map19").click(function()
+	{
+		$(map19_data).toggle();
+	});
+	$("#map20").click(function()
+	{
+		$(map20_data).toggle();
+	});
+$("#tab1").click(function()
+{
+	$(tab1_data).toggle(500);
+});
+$("#tab2").click(function()
+{
+	$(tab2_data).toggle(500);
+});
+$("#tab3").click(function()
+{
+	$(tab3_data).toggle(500);
+});
+$("#tab4").click(function()
+{
+	$(tab4_data).toggle(500);
+});
+$("#tab5").click(function()
+{
+	$(tab5_data).toggle(500);
+});
+$("#tab6").click(function()
+{
+	$(tab6_data).toggle(500);
+});
+$("#tab7").click(function()
+{
+	$(tab7_data).toggle(500);
+});
+$("#tab8").click(function()
+{
+	$(tab8_data).toggle(500);
+});
+$("#tab9").click(function()
+{
+	$(tab9_data).toggle(500);
+});
+$("#tab10").click(function()
+{
+	$(tab10_data).toggle(500);
+});
+$("#tab11").click(function()
+{
+	$(tab11_data).toggle(500);
+	$(tab11a_data).hide();
+	$(tab11b_data).hide();
+	$(tab11c_data).hide();
+	$(tab11d_data).hide();
+	$(tab11e_data).hide();
+	$(tab11f_data).hide();
+	$(tab11g_data).hide();
+	$(tab11h_data).hide();
+	$(tab11i_data).hide();
+	$(tab11j_data).hide();
+	$(tab11k_data).hide();
+	$(tab11l_data).hide();
+	$(tab11m_data).hide();
+	$(tab11n_data).hide();
+	$(tab11o_data).hide();
+	$(tab11p_data).hide();
+	$(tab11q_data).hide();
+$("#tab11a").click(function()
+{
+	$(tab11a_data).toggle(500);
+});
+$("#tab11b").click(function()
+{
+	$(tab11b_data).toggle(500);
+});
+$("#tab11c").click(function()
+{
+	$(tab11c_data).toggle(500);
+});
+$("#tab11d").click(function()
+{
+	$(tab11d_data).toggle(500);
+});
+$("#tab11e").click(function()
+{
+	$(tab11e_data).toggle(500);
+});
+$("#tab11f").click(function()
+{
+	$(tab11f_data).toggle(500);
+});
+$("#tab11g").click(function()
+{
+	$(tab11g_data).toggle(500);
+});
+$("#tab11h").click(function()
+{
+	$(tab11h_data).toggle(500);
+});
+$("#tab11i").click(function()
+{
+	$(tab11i_data).toggle(500);
+});
+$("#tab11j").click(function()
+{
+	$(tab11j_data).toggle(500);
+});
+$("#tab11k").click(function()
+{
+	$(tab11k_data).toggle(500);
+});
+$("#tab11l").click(function()
+{
+	$(tab11l_data).toggle(500);
+});
+$("#tab11m").click(function()
+{
+	$(tab11m_data).toggle(500);
+});
+$("#tab11n").click(function()
+{
+	$(tab11n_data).toggle(500);
+});
+$("#tab11o").click(function()
+{
+	$(tab11o_data).toggle(500);
+});
+$("#tab11p").click(function()
+{
+	$(tab11p_data).toggle(500);
+});
+$("#tab11q").click(function()
+{
+	$(tab11q_data).toggle(500);
+});
+});
+
+
+$("#tab12").click(function()
+{
+	$(tab12_data).toggle(500);
+});
+$("#tab13").click(function()
+{
+	$(tab13_data).toggle(500);
+});
+$("#tab14").click(function()
+{
+	$(tab14_data).toggle(500);
+});
+$("#tab15").click(function()
+{
+	$(tab15_data).toggle(500);
+});
+$("#tab16").click(function()
+{
+	$(tab16_data).toggle(500);
+});
+$("#tab17").click(function()
+{
+	$(tab17_data).toggle(500);
+});
+$("#tab18").click(function()
+{
+	$(tab18_data).toggle(500);
+});
+$("#tab19").click(function()
+{
+	$(tab19_data).toggle(500);
+});
+$("#tab20").click(function()
+{
+	$(tab20_data).toggle(500);
+});
+
+$("#tab21").click(function()
+{
+		$(map1_data).show();
+		$(map2_data).show();
+		$(map3_data).show();
+		$(map4_data).show();
+		$(map5_data).show();
+		$(map6_data).show();
+		$(map7_data).show();
+		$(map8_data).show();
+		$(map9_data).show();
+		$(map10_data).show();
+		$(map11_data).show();
+		$(map12_data).show();
+		$(map13_data).show();
+		$(map14_data).show();
+		$(map15_data).show();
+		$(map16_data).show();
+		$(map17_data).show();
+		$(map18_data).show();
+		$(map19_data).show();
+		$(map20_data).show();
+	$(tab1_data).show(400);
+	$(tab2_data).show(400);
+	$(tab3_data).show(400);
+	$(tab4_data).show(400);
+	$(tab5_data).show(400);
+	$(tab6_data).show(400);
+	$(tab7_data).show(400);
+	$(tab8_data).show(400);
+	$(tab9_data).show(400);
+	$(tab10_data).show(400);
+	$(tab11_data).show(400);
+	$(tab11a_data).show(400);
+	$(tab11b_data).show(400);
+	$(tab11c_data).show(400);
+	$(tab11d_data).show(400);
+	$(tab11e_data).show(400);
+	$(tab11f_data).show(400);
+	$(tab11g_data).show(400);
+	$(tab11h_data).show(400);
+	$(tab11i_data).show(400);
+	$(tab11j_data).show(400);
+	$(tab11k_data).show(400);
+	$(tab11l_data).show(400);
+	$(tab11m_data).show(400);
+	$(tab11n_data).show(400);
+	$(tab11o_data).show(400);
+	$(tab11p_data).show(400);
+	$(tab11q_data).show(400);
+	$(tab12_data).show(400);
+	$(tab13_data).show(400);
+	$(tab14_data).show(400);
+	$(tab15_data).show(400);
+	$(tab16_data).show(400);
+	$(tab17_data).show(400);
+	$(tab18_data).show(400);
+	$(tab19_data).show(400);
+	$(tab20_data).show(400);
+});
+$("#tab22").click(function()
+{
+		$(map1_data).hide();
+		$(map2_data).hide();
+		$(map3_data).hide();
+		$(map4_data).hide();
+		$(map5_data).hide();
+		$(map6_data).hide();
+		$(map7_data).hide();
+		$(map8_data).hide();
+		$(map9_data).hide();
+		$(map10_data).hide();
+		$(map11_data).hide();
+		$(map12_data).hide();
+		$(map13_data).hide();
+		$(map14_data).hide();
+		$(map15_data).hide();
+		$(map16_data).hide();
+		$(map17_data).hide();
+		$(map18_data).hide();
+		$(map19_data).hide();
+		$(map20_data).hide();
+	$(tab1_data).hide(400);
+	$(tab2_data).hide(400);
+	$(tab3_data).hide(400);
+	$(tab4_data).hide(400);
+	$(tab5_data).hide(400);
+	$(tab6_data).hide(400);
+	$(tab7_data).hide(400);
+	$(tab8_data).hide(400);
+	$(tab9_data).hide(400);
+	$(tab10_data).hide(400);
+	$(tab11_data).hide(400);
+	$(tab11a_data).hide(400);
+	$(tab11b_data).hide(400);
+	$(tab11c_data).hide(400);
+	$(tab11d_data).hide(400);
+	$(tab11e_data).hide(400);
+	$(tab11f_data).hide(400);
+	$(tab11g_data).hide(400);
+	$(tab11h_data).hide(400);
+	$(tab11i_data).hide(400);
+	$(tab11j_data).hide(400);
+	$(tab11k_data).hide(400);
+	$(tab11l_data).hide(400);
+	$(tab11m_data).hide(400);
+	$(tab11n_data).hide(400);
+	$(tab11o_data).hide(400);
+	$(tab11p_data).hide(400);
+	$(tab11q_data).hide(400);
+	$(tab12_data).hide(400);
+	$(tab13_data).hide(400);
+	$(tab14_data).hide(400);
+	$(tab15_data).hide(400);
+	$(tab16_data).hide(400);
+	$(tab17_data).hide(400);
+	$(tab18_data).hide(400);
+	$(tab19_data).hide(400);
+	$(tab20_data).hide(400);
+});
+});

@@ -1,0 +1,84 @@
+$(document).ready(function()
+{
+	$(tab1_data).hide();
+	$(tab2_data).hide();
+	$(tab3_data).hide();
+	$(tab4_data).hide();
+	$(tab5_data).hide();
+	$(tab6_data).hide();
+	$(tab7_data).hide();
+	$(tab8_data).hide();
+	$(tab9_data).hide();
+	$(tab10_data).hide();
+	
+		$("#tab1").click(function()
+		{
+				$(tab1_data).toggle(500);
+		});
+		$("#tab2").click(function()
+		{
+				$(tab2_data).toggle(500);
+		});
+		$("#tab3").click(function()
+		{
+				$(tab3_data).toggle(500);
+		});
+		$("#tab4").click(function()
+		{
+				$(tab4_data).toggle(500);
+		});
+		$("#tab5").click(function()
+		{
+				$(tab5_data).toggle(500);
+		});
+		$("#tab6").click(function()
+		{
+				$(tab6_data).toggle(500);
+		});
+		$("#tab7").click(function()
+		{
+				$(tab7_data).toggle(500);
+		});
+		$("#tab8").click(function()
+		{
+				$(tab8_data).toggle(500);
+		});
+		$("#tab9").click(function()
+		{
+				$(tab9_data).toggle(500);
+		});
+		$("#tab10").click(function()
+		{
+				$(tab10_data).toggle(500);
+		});
+		$("#tab_show_all").click(function()
+		{
+			$(tab1_data).show(500);
+			$(tab2_data).show(500);
+			$(tab3_data).show(500);
+			$(tab4_data).show(500);
+			$(tab5_data).show(500);
+			$(tab6_data).show(500);
+			$(tab7_data).show(500);
+			$(tab8_data).show(500);
+			$(tab9_data).show(500);
+			$(tab10_data).show(500);
+				$(seen).css({"visibility": "hidden"});
+				$(hide).css({"visibility": "visible"});
+		});
+		$("#tab_hide_all").click(function()
+		{
+			$(tab1_data).hide(500);
+			$(tab2_data).hide(500);
+			$(tab3_data).hide(500);
+			$(tab4_data).hide(500);
+			$(tab5_data).hide(500);
+			$(tab6_data).hide(500);
+			$(tab7_data).hide(500);
+			$(tab8_data).hide(500);
+			$(tab9_data).hide(500);
+			$(tab10_data).hide(500);
+				$(seen).css({"visibility": "visible"});
+				$(hide).css({"visibility": "hidden"});
+		})
+});

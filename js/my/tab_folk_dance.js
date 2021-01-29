@@ -1,0 +1,19 @@
+$(document).ready(function()
+{
+	$(tab1_data).hide();
+	$(tab2_data).hide();
+	$(tab3_data).hide();
+	
+	$("#tab1").click(function()
+	{
+		$(tab1_data).toggle(500);
+	});
+	$("#tab2").click(function()
+	{
+		$(tab2_data).toggle(500);
+	});
+	$("#tab3").click(function()
+	{
+		$(tab3_data).toggle(500);
+	});
+});

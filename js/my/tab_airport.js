@@ -1,0 +1,67 @@
+$(document).ready(function()
+{
+$(tab1_data).hide();
+$(tab2_data).hide();
+$(tab3_data).hide();
+$(tab4_data).hide();
+$(tab5_data).hide();
+$(tab6_data).hide();
+$(tab7_data).hide();
+
+$("#tab1").click(function()
+{
+	$(tab1_data).toggle(500);
+});
+$("#tab1_copy").click(function()
+{
+	$(tab1_data).toggle(500);
+});
+$("#tab2").click(function()
+{
+	$(tab2_data).toggle(500);
+});
+$("#tab2_copy").click(function()
+{
+	$(tab2_data).toggle(500);
+});
+$("#tab3").click(function()
+{
+	$(tab3_data).toggle(500);
+});
+$("#tab3_copy").click(function()
+{
+	$(tab3_data).toggle(500);
+});
+$("#tab4").click(function()
+{
+	$(tab4_data).toggle(500);
+});
+$("#tab4_copy").click(function()
+{
+	$(tab4_data).toggle(500);
+});
+$("#tab5").click(function()
+{
+	$(tab5_data).toggle(500);
+});
+$("#tab5_copy").click(function()
+{
+	$(tab5_data).toggle(500);
+});
+$("#tab6").click(function()
+{
+	$(tab6_data).toggle(500);
+});
+$("#tab6_copy").click(function()
+{
+	$(tab6_data).toggle(500);
+});
+$("#tab7").click(function()
+{
+	$(tab7_data).toggle(500);
+});
+$("#tab7_copy").click(function()
+{
+	$(tab7_data).toggle(500);
+});
+});
